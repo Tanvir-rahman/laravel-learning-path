@@ -1,0 +1,6 @@
+Build a simple PHP CLI tool called "alphacount".
+This tool should be run from the command line like,
+
+./alphacount "PHP is love!" or php alphacount.php "PHP is love!"
+
+and it should produce the output of 9 because it has a total of 9 alphabets/characters in the sentence.
